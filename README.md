@@ -11,6 +11,7 @@ git init: initializes a folder with git. ONLY TYPE THIS WITHIN THE DIRECTORY YOU
 `git commit`: “captures” any changes since the last commit
 
 `git commit -m “Message”`: allows you to leave a commit message describing the changes
+
 * Adding `-a`: to the end = “all changes”
 
 `git commit -am "A message”`: shortens the add and commit process as long as all files are being tracked
@@ -22,7 +23,8 @@ git init: initializes a folder with git. ONLY TYPE THIS WITHIN THE DIRECTORY YOU
 `git remote add origin [your-copied-remote-repository-URL]`: connects a local repository to a remote repository
 
 `git push`: allows you to send code to a remote repo
-* Adding `-u` sets “upstream” branch 
+
+* Adding `-u` sets “upstream” branch
 
 `git fetch`: updates your remote tracking branch to be in sync, or up-to-date, with the remote branch
 
