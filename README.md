@@ -1,6 +1,6 @@
 # Basic Git Commands
 
-git init: initializes a folder with git. ONLY TYPE THIS WITHIN THE DIRECTORY YOU WANT GIT TO TRACK.
+`git init`: initializes a folder with git. ONLY TYPE THIS WITHIN THE DIRECTORY YOU WANT GIT TO TRACK.
 
 `rm -rf .git`: removes git initialization
 
