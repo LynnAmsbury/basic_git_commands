@@ -49,6 +49,7 @@
 `git reset --soft HEAD~3`: undoes the last 3 commits
 
 `git branch`: shows you all the branches in a project with the current active branch highlighted
+
 `git branch [new-branch-name]`: creates a new branch
 
 `git checkout .`: clears changes from a working branch back to the last committed state (or the beginning)
